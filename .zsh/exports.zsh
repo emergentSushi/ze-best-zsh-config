@@ -2,6 +2,7 @@
 export TERM=xterm-256color
 export CLICOLOR=1
 export LSCOLORS=Gxfxcxdxbxegedabagacad
+export PS1="%20<...<%~%<< %% "
 
 # Enable color in grep
 export GREP_OPTIONS='--color=auto'
