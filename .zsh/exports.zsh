@@ -17,7 +17,7 @@ export GREP_COLOR='3;33'
 export ARCHFLAGS='-arch x86_64'
 
 export LESS='--ignore-case --raw-control-chars'
-export PAGER='most'
+export PAGER='less'
 export EDITOR='/Applications/MacVim.app/Contents/MacOS/Vim'
 export NODE_PATH=/opt/boxen/nodenv/versions/v0.10/lib
 export PYTHONPATH=/usr/local/lib/python2.6/site-packages
