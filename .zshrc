@@ -6,5 +6,6 @@ source ~/.zsh/functions.zsh
 source ~/.zsh/history.zsh
 source ~/.zsh/zsh_hooks.zsh
 source ~/.zsh/welcome.zsh
+source ~/.zsh/bindkeys.zsh
 
 export PATH="/usr/local/sbin:$PATH"
