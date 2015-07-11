@@ -7,3 +7,4 @@ source ~/.zsh/history.zsh
 source ~/.zsh/zsh_hooks.zsh
 source ~/.zsh/welcome.zsh
 
+export PATH="/usr/local/sbin:$PATH"
